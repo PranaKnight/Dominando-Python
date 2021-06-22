@@ -15,7 +15,8 @@ M[0] = 0
 print(M)
 print(L)
 #Nesse caso ao identificador M é atribuido L fazendo M ter o mesmo objeto
-#Caso seja mudado um dado em M em L também o será
+#Caso seja mudado um dado em M em L também o será.
+
 print("=+"*45)
 L = [12, 24, 36]
 print(id(L))

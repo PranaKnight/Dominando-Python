@@ -12,4 +12,5 @@ f = input("Digite um número real: ")
 print(f)
 print(type(f))
 
+#Python pega o objeto input, quando não especificado, sempre como string
 

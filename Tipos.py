@@ -8,3 +8,4 @@ Z = X + Y
 print(type(Z))
 a = 5 + 3j
 print(type(a))
+#pritn(type(A)) retorna que nao foi definido
